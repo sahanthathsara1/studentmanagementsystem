@@ -1,0 +1,6 @@
+{
+  "verbose": true,
+  "watch": ["server.js", "src/"],
+  "ignore": ["node_modules/", "public/", ".git/", "logs/", ".env"],
+  "ext": "js,json"
+}
